@@ -1,0 +1,35 @@
+{
+  "PATCHNOTES__GLOBAL": "Patch-Notes",
+  "PATCHNOTES__GLOBAL_ADD_SUCCESS": "Patch-Notes ajouté avec succès !",
+  "PATCHNOTES__GLOBAL_EDIT_SUCCESS": "Patch-Notes modifié avec succès !",
+  "PATCHNOTES__GLOBAL_ADD": "Ajouter un Patch-Notes",
+  "PATCHNOTES__GLOBAL_EDIT": "Modifier un Patch-Notes",
+  "PATCHNOTES__GLOBAL_LINK": "Lien",
+
+
+  "PATCHNOTES__ADMIN_NAME": "Nom",
+  "PATCHNOTES__ADMIN_URL": "url",
+  "PATCHNOTES__ADMIN_NEW": "News (Soon)",
+  "PATCHNOTES__ADMIN_ACTIONS": "actions",
+  "PATCHNOTES__ADMIN_CREATE_NEWS": "Créer une news",
+  "PATCHNOTES__ADMIN_MANAGE_NEWS": "Gérer la news",
+
+  "PATCHNOTES__FORM_NAME_EXAMPLE": "Exemple: v1.7.5",
+  "PATCHNOTES__FORM_URL_EXAMPLE": "/patch-notes/",
+  "PATCHNOTES__FORM_ADD": "Vous pouvez ici effectuer la liste de tous les ajouts de votre mise à jour !",
+  "PATCHNOTES__FORM_DELETE": "Vous pouvez ici effectuer la liste de toutes les suppressions issues de votre mise à jour !",
+
+  "PATCHNOTES__FORM_SHOP": "Vous pouvez ici effectuer la liste de tous les ajouts et modifications effectuées sur votre boutique en jeux !",
+
+  "PATCHNOTES__FORM_SHOP_ADD": "Ajout(s)",
+  "PATCHNOTES__FORM_SHOP_EDIT": "Modification(s)",
+  "PATCHNOTES__FORM_SHOP_DELETE": "Supression(s)",
+
+  "PATCHNOTES__FORM_SHOP_NAME": "Nom de l'objet",
+  "PATCHNOTES__FORM_SHOP_PRICE": "Prix",
+  "PATCHNOTES__FORM_SHOP_OLD_PRICE": "Ancien Prix",
+  "PATCHNOTES__FORM_SHOP_NEW_PRICE": "Nouveau Prix",
+  "PATCHNOTES__FORM_SHOP_QUANTITY": "Quantité",
+
+  "PATCHNOTES__LANG_GLOBAL": "Général"
+}

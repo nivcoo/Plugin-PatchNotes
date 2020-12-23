@@ -1,0 +1,32 @@
+{
+  "name": "PatchNotes",
+  "admin_menus": {
+    "GLOBAL__ADMIN_PLUGINS": {
+      "PATCHNOTES__GLOBAL": {
+        "icon": "link",
+        "index": "4",
+        "menu": {
+          "PATCHNOTES__GLOBAL": {
+            "icon": "cog",
+            "route": "/admin/patch-notes"
+          }
+        }
+      }
+    }
+  },
+  "navbar_routes": {
+  },
+  "author": "nivcoo",
+  "version": "1.0.0",
+  "useEvents": false,
+  "permissions": {
+    "available": [],
+    "default": {
+      "0": [],
+      "2": []
+    }
+  },
+  "requirements": {
+    "CMS": "^1.11.0"
+  }
+}
